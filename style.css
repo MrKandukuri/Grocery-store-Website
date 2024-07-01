@@ -1,0 +1,74 @@
+
+
+.logo{
+    color: whitesmoke;
+    font-size: 30px;
+    line-height: 60px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+nav{
+    background-color: #080808;
+    height: 60px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 10px;
+
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 10px;
+}
+
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+
+}
+
+.banner-image{
+    background-image: url("homepage-banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home_text{
+    color: white;
+    padding: 250px 80px 150px;
+}
+
+.welcome-note{
+    font-size: 18px;
+}
+
+.product-heading{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding: 20px 30px;
+}
+
+.product-item-card{
+    background-color: #f3f1f1;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.product-image{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.product-title{
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
